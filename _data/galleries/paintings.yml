@@ -1,0 +1,28 @@
+picture_path: paintings
+preview:
+  filename: a
+  original: a.png
+  sizes:
+  - a.min.png
+  thumbnail: a.min.png
+pictures:
+- filename: a
+  original: a.png
+  sizes:
+  - a.min.png
+  thumbnail: a.min.png
+- filename: c
+  original: c.png
+  sizes:
+  - c.min.png
+  thumbnail: c.min.png
+- filename: f
+  original: f.png
+  sizes:
+  - f.min.png
+  thumbnail: f.min.png
+- filename: b
+  original: b.png
+  sizes:
+  - b.min.png
+  thumbnail: b.min.png
