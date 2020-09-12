@@ -1,4 +1,7 @@
 picture_path: paintings
+sizes:
+  - 1080
+  - 360
 preview:
   filename: a
   original: a.png
@@ -7,22 +10,17 @@ preview:
   thumbnail: a.min.png
 pictures:
 - filename: a
-  original: a.png
-  sizes:
-  - a.min.png
-  thumbnail: a.min.png
-- filename: c
-  original: c.png
-  sizes:
-  - c.min.png
-  thumbnail: c.min.png
-- filename: f
-  original: f.png
-  sizes:
-  - f.min.png
-  thumbnail: f.min.png
+  title: Self Portrait
+  type: Acrylic on canvas
+  dimensions: 29.7×40.5cm
+  caption: Memories of Lisbon in 2019
+  location: Tainan, Taiwan
+  date: May 2020
+
 - filename: b
-  original: b.png
-  sizes:
-  - b.min.png
-  thumbnail: b.min.png
+- filename: c
+- filename: d
+- filename: e
+- filename: f
+- filename: g
+- filename: h
